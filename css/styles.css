@@ -1,0 +1,20 @@
+.first{
+    color: blue;
+    text-align: center ;
+  
+} 
+
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height: 40px;
+    
+}
+html{
+    background-color: brown;
+}
+#first{
+    color: aquamarine;
+    
+}
